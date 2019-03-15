@@ -9,4 +9,5 @@ class EmailParser
   end 
   
   def parse 
+    email_array = 
 end 
